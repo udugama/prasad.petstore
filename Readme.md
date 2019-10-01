@@ -38,6 +38,8 @@ Number of Demonstrative tests avalable under the `jest` test suit.
 * Run start run `docker-compose up` to stand up docker infrastructure.
 * Test sending a request to the api endpoint. {refer to API Test section below to send request to test the api}
 
+Note: On error deploying docker setup try removing all existing images with same name.
+
 ### API Test
 
 * Download and install Postman from following website <https://www.getpostman.com>.
