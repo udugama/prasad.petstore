@@ -34,6 +34,7 @@ Number of Demonstrative tests avalable under the `jest` test suit.
 
 ### Starting up Service
 
+* Run `yarn build` to compile the typescipt.
 * Make sure the host mashine has latest version of docker running.
 * Run start run `docker-compose up` to stand up docker infrastructure.
 * Test sending a request to the api endpoint. {refer to API Test section below to send request to test the api}
